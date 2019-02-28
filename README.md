@@ -5,7 +5,7 @@ Requirement packages are: `bs4` `certifi` `chardet` `Click` `Flask` `idna` `itsd
 
 ### To do
 - Show the details about jobs when we click on 'Click for more details'
-- Save the data to file 'jobs.sqlite3'
+- Save the data to file 'jobs.db'
 
 ### How to run
 - You can run virtual environment by following code:
