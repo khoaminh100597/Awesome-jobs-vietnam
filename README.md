@@ -14,4 +14,4 @@ Requirement packages are: `bs4` `certifi` `chardet` `Click` `Flask` `idna` `itsd
 
 - After that, you can run python file by following code:
 
-`p
+`python main.py`
